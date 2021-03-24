@@ -15,21 +15,21 @@ Randomly generated coordinates are passed through the [CitiPy](https://pypi.org/
 
 A series of scatter plots showcases the following relationships:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+* Temperature (F) vs. Latitude
+* Humidity (%) vs. Latitude
+* Cloudiness (%) vs. Latitude
+* Wind Speed (mph) vs. Latitude
 
 The data is separated into hemispheres to showcase the following relationships:
 
-Northern Hemisphere - Temperature (F) vs. Latitude
-Southern Hemisphere - Temperature (F) vs. Latitude
-Northern Hemisphere - Humidity (%) vs. Latitude
-Southern Hemisphere - Humidity (%) vs. Latitude
-Northern Hemisphere - Cloudiness (%) vs. Latitude
-Southern Hemisphere - Cloudiness (%) vs. Latitude
-Northern Hemisphere - Wind Speed (mph) vs. Latitude
-Southern Hemisphere - Wind Speed (mph) vs. Latitude
+* Northern Hemisphere - Temperature (F) vs. Latitude
+* Southern Hemisphere - Temperature (F) vs. Latitude
+* Northern Hemisphere - Humidity (%) vs. Latitude
+* Southern Hemisphere - Humidity (%) vs. Latitude
+* Northern Hemisphere - Cloudiness (%) vs. Latitude
+* Southern Hemisphere - Cloudiness (%) vs. Latitude
+* Northern Hemisphere - Wind Speed (mph) vs. Latitude
+* Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 ### VacationPy
 
